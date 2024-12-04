@@ -1,5 +1,4 @@
-# SQL-Project1
-# SQL Query Repository
+# SQL Query Repository 1
 
 This repository contains a collection of basic SQL queries for learning purposes.
 
